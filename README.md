@@ -14,8 +14,9 @@ Texte en Gras Italique:
 
 ```
 ***Message***
+```
 
-Texte en Souligné:
+Texte En Gras Souligné:
 
 ```
 __Message__
